@@ -1,0 +1,12 @@
+Package: lubuntu-win10-qt-theme
+Version: 0.0.1
+Installed-Size: 51
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Section: utils
+Architecture: all
+Priority: optional
+Homepage: https://store.kde.org/p/1319223/
+Description: Windows 10 LXQt Theme.
+ This is an fork of Win10 LXQt Theme created by Hendra.
+
+
